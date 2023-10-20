@@ -8,14 +8,14 @@ Just like any evolving computer science field, Machine Learning and Artificial I
 
 The renowned AI/ML educator and expert, [Andrej Karpathy](https://twitter.com/karpathy), shared some wisdom:
 
-<center><img src="Images\karpathy.png" alt = "a simple diagram" width ="500"></img></center>
-<center>source: Lex Fridman Podcast</center>
+<img src="Images\karpathy.png" alt = "a simple diagram" width ="500"></img>
+
+[source: Lex Fridman Podcast](https://youtu.be/I2ZK3ngNvvI?si=W0w9CG9BnWoLtBdG)
 
 In essence? Commit to the journey, clock in those hours, and always measure your growth against your past self. It's a stellar mantra for diving into any new domain.
 
 Now, without further ado, let's dive in!
 
----
 
 ## Table of Contents
 <!-- TOC -->
@@ -34,13 +34,12 @@ Now, without further ado, let's dive in!
         - [Generative AI](#generative-ai)
         - [Additional Skills](#additional-skills)
     - [Unclassified Learning Resources](#unclassified-learning-resources)
-    - [**Words of Wisdom**](#words-of-wisdom)
+    - [Words of Wisdom](#words-of-wisdom)
     - [Changelog](#changelog)
 
 <!-- /TOC -->
 
 
----
 
 ## What’s in this repo
 
@@ -48,7 +47,7 @@ Here, you'll find an evolving collection of resources aimed to lay down the core
 
 Though I've packed in a lot, this isn't an exhaustive trove. Every learner carves out a unique trail, and with that in mind, I've made this a collaborative space. I eagerly await input from both seasoned ML veterans and those just dipping their toes. Let's co-create a richer repository!
 
----
+
 
 ## Machine Learning or AI? Let's Break it Down
 
@@ -77,7 +76,7 @@ Before diving deep, it's essential to understand the fundamental difference betw
 
 <center><img src="Images\ml-ai.png" alt = "a simple diagram" width ="500"></img></center>
 
----
+
 
 ## Fundamental Skills
 
@@ -152,7 +151,7 @@ Some of these skills you might already have knowledge in, but also may be learne
 - Software Development
 - Cloud Infrastructure
 
----
+
 
 ## Unclassified Learning Resources
 
@@ -161,7 +160,7 @@ Some of these skills you might already have knowledge in, but also may be learne
 - [Why Neural Networks can learn (almost) anything by Emergent Garden](https://youtu.be/0QczhVg5HaI?si=NoZfCp2iy1mA1AQI)
 - [How to learn to code fast using ChatGPT by Tina Huang](https://youtu.be/VznoKyh6AXs?si=sGTvQkxpRj9hL0yO)
 
----
+
 
 ## Words of Wisdom
 
@@ -171,7 +170,6 @@ Some of these skills you might already have knowledge in, but also may be learne
 - Dive deep: aim to replicate results from renowned research papers.
 - Start small: there's magic in building bite-sized projects.
 
----
 
 ## Changelog
 - Initial commit: October 19, 2023
