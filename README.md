@@ -130,6 +130,7 @@ Python stands out as the go-to programming language for Machine Learning and AI.
 - [Kadenze: Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) (Paid)
 - [Coursera: Artificial Creativity by The New School Parsons](https://www.coursera.org/learn/artificial-creativity) (Paid)
 - [Coursera: Natural Language Processing by Deeplearning.AI](https://www.coursera.org/specializations/natural-language-processing) (Paid)
+- [Deep Learning for Music Analysis and Generation by Yi-Hsuan Yang](https://github.com/affige/DeepMIR)(Free)
 
 ### Generative AI
 
